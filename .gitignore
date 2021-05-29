@@ -1,1 +1,7 @@
 SRP/plant-care/build/
+*.vscode
+SRP/*.vscode
+*/*/*/build
+ISP/plant-care-better/build
+OCP/plant-care/build
+DIP/plant-care/build
